@@ -1,0 +1,88 @@
+#blockleft h1, #blockleft h3{
+color:#fff;
+font-size:13px;
+}
+#blockleft a{
+color:#fff;
+font-size:13px;
+}
+#blockleft a:hover{
+color:yellow;
+font-size:13px;
+font-weight: bold;
+}
+span.u {
+color: #fff;
+font-weight: bold;
+text-decoration: underline;
+}
+ul {
+list-style: none;
+padding:5px;
+margin:0px;
+line-height:17px;
+}
+div.ltitle{
+padding:0px;
+}
+div.ltitle {
+width:170px;
+background : #666;
+color: #fff;
+border-top: 1px solid #fff; 
+border-left: 0px solid #fff; 
+border-bottom: 1px solid #fff;
+}
+div.lblockcontent {
+padding:10px;
+}
+div.ltitle h1, div.ltitle h3 {
+background: url(onl.gif) no-repeat left center;
+padding-left: 33px;
+}
+div.rtitle{
+padding:0px;
+}
+div.rtitle h1 {
+background: url(onr.gif) no-repeat left center;
+padding-left: 20px;
+padding-top: 10px;
+font-size:14px;
+color:#111;
+}
+div.rblockcontent  {
+padding:5px;
+width: 170px;
+padding-right:5px;
+padding-left:5px;
+}
+div.rfooter {
+height: 20px;
+}
+div.cblockcontent {
+padding:13px;
+padding-top:0px;margin-top:0;
+}
+div.clblockcontent a {
+text-decoration:underline;
+}
+div.clblockcontent {
+padding:13px;
+padding-top:0px;margin-top:0;
+}
+div.crblockcontent {
+padding:10px;
+}
+.clblocktitle h1 {color:#111;font-size:14px;padding-left:13px;
+}
+fieldset {padding:10px;border: 1px dotted #ccc;}
+legend {padding:10px;background:#fff;}
+#modulcontent {padding-left:13px;padding-right:15px;}
+#modulcontent h1 {font-size:14px;padding-left:0px;padding-right:15px;}
+#modulcontent a:hover {
+color: #111;
+}
+h2, h3 {
+font-size:13px;
+color:#111;
+}
